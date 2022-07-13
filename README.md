@@ -6,6 +6,8 @@ Proteus file is also attached with schematic and PCB design and Report file.
 # Here is the schematic diagram
 ![image](https://user-images.githubusercontent.com/70439212/178740569-46177417-edbf-475c-87dd-af302d5c8d0c.png)
 # Here is the PCB Design
+![aa](https://user-images.githubusercontent.com/70439212/178744297-8d512de9-0ae9-4887-bc03-9f5f57253d73.PNG)
+
 ![image](https://user-images.githubusercontent.com/70439212/178740753-4718d69a-9090-407d-84bb-d774967e835c.png)
 # Practical Analog PID PCB
 ![WhatsApp Image 2022-07-13 at 6 08 16 PM](https://user-images.githubusercontent.com/70439212/178741251-3c954632-db9d-4ad9-b598-7b32d46d5e79.jpeg)
